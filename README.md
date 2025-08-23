@@ -39,3 +39,11 @@
     <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo" />
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Azure-Dark.svg" height="50" alt="Azure logo" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedroT-web/pedroT-web/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedroT-web/pedroT-web/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pedroT-web/pedroT-web/output/pacman-contribution-graph.svg">
+</picture>
+
+###
