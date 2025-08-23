@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Olá, meu nome é Pedro, tenho 18 anos e sou estudante da área de tecnologia.
+Sou apaixonado por programação, tenho grande interesse em aprendizado contínuo e estou sempre disposto a adquirir novos conhecimentos.
 
-<!--
-**pedroT-web/pedroT-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Formação e cursos:
 
-Here are some ideas to get you started:
+Técnico em Informática (em andamento) – SENAC Americana
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvedor Back-End (em andamento) – SENAC Americana
+
+Programação em Java (em andamento) – SENAI
+
+Mecânica Industrial (em andamento) – ETEC de Americana
+
+Introdução à Programação em Java - SENAI 
+
+Análise de Dados em Nuvem – SENAI
+
+Banco de Dados em Nuvem – SENAI
+
+Power BI - SENAI
+
+🌍 Idiomas:
+
+Inglês básico (em aprimoramento)
+
+💡 Busco constantemente evoluir minhas habilidades e contribuir para projetos que me permitam crescer profissionalmente e agregar valor ao time.
