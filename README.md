@@ -16,7 +16,6 @@
 
 <h1 align="center">📊 Estatísticas do github</h1>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedroT-web&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=gruvbox_light&locale=pt-br&hide_border=false&order=1" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroT-web&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gruvbox_light&hide_border=false&order=2" height="300" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedroT-web&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
