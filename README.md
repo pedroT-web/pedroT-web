@@ -17,30 +17,37 @@
 <h1 align="center">📊 Estatísticas do github</h1>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroT-web&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gruvbox_light&hide_border=false&order=2" height="300" alt="languages graph"  />
+     <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedroT-web&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 
-<h1 align="center">🛠️ Linguagens </h1>
+<h1 align="center">🛠️ Técnologias </h1>
+<h3 align="center">💻 Linguagens</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
-  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo" />
-  <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" height="50" alt="Node logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java logo" />
+  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="C# logo" />
+  <img src="https://skillicons.dev/icons?i=php" height="50" alt="PHP logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js logo" />
+  <img src="https://skillicons.dev/icons?i=mongo" height="50" alt="MongoDB logo" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL logo" />
 </div>
 
-<h1 align="center">🛠️ Frameworks </h1>
+<h3 align="center">🧰 Frameworks e Ferramentas</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo" />
-    <img src="https://skillicons.dev/icons?i=idea" height="50" alt="intellijidea logo" />
-    <img src="https://skillicons.dev/icons?i=visualstudio" height="50" alt="visualstudio logo" />
-    <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo" />
-    <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo" />
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Azure-Dark.svg" height="50" alt="Azure logo" />
-</div>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap logo" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git logo" />
+  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma logo" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VSCode logo" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="50" alt="Visual Studio logo" />
+  <img src="https://skillicons.dev/icons?i=idea" height="50" alt="IntelliJ IDEA logo" />
+  <img src="https://skillicons.dev/icons?i=azure" height="50" alt="Microsoft Azure logo" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="Git Hub logo" />
+</div> 
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedroT-web/pedroT-web/output/pacman-contribution-graph-dark.svg">
